@@ -2,7 +2,7 @@
 
 # Hopfield network: capacity, (α, T) phase diagram, spurious states, pseudo-inverse rule
 
-By held-out runner, with Ori. Experiment as agreed: [PLAN.md](PLAN.md). What this does **not** show: [LIMITS.md](LIMITS.md).
+By Oriphim, with Ori. Experiment as agreed: [PLAN.md](PLAN.md). What this does **not** show: [LIMITS.md](LIMITS.md).
 
 ## Answer
 - **Hebbian critical capacity.** α_c is the load at which half of the noisy cues are recalled to m ≥ 0.95. It falls with N toward the AGS value α_c = 0.138, which `theory.py` computes from the replica-symmetric T = 0 equations (overlap 0.967 at α_c):

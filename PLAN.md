@@ -1,6 +1,6 @@
 # PLAN — Hopfield network: capacity, phase diagram, spurious states, pseudo-inverse
 
-Requested by: held-out runner. Planned by Ori (no attachments; standard textbook results only,
+Requested by: Oriphim. Planned by Ori (no attachments; standard textbook results only,
 cited below, so no separate literature search).
 
 ## Question
